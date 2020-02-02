@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">84468332509-pqgkb57hekbel29ekkpp3stdtjcub9ei.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://deeplinkdemo-ee5d4.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">84468332509</string>
+    <string name="google_api_key" translatable="false">AIzaSyCDVOJ572N1Nx1asya6ce4Oox8n4elCoyo</string>
+    <string name="google_app_id" translatable="false">1:84468332509:android:ead9f4b9cb8e6dc9c92834</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCDVOJ572N1Nx1asya6ce4Oox8n4elCoyo</string>
+    <string name="google_storage_bucket" translatable="false">deeplinkdemo-ee5d4.appspot.com</string>
+    <string name="project_id" translatable="false">deeplinkdemo-ee5d4</string>
+</resources>
