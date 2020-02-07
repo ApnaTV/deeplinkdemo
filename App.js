@@ -30,7 +30,7 @@ export default class App extends React.Component{
 
 componentDidMount = async() => {
     let url = await firebase.links().getInitialLink();
-    console.log('incoming url', url);
+    console.log('incoming urla', url);
 }
 
 

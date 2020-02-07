@@ -7,9 +7,15 @@ INJECTED from /home/vipul/myspace/r7/new/deeplinkdemo/android/app/src/main/Andro
 MERGED from /home/vipul/myspace/r7/new/deeplinkdemo/android/app/src/main/AndroidManifest.xml:1:1-33:12
 MERGED from [:react-native-firebase] /home/vipul/myspace/r7/new/deeplinkdemo/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
 MERGED from [com.facebook.react:react-native:0.61.5] /home/vipul/.gradle/caches/transforms-2/files-2.1/ea3e4bec2e12aabd6b7b44e3e19f268d/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-core:16.0.9] /home/vipul/.gradle/caches/transforms-2/files-2.1/2615342169021268556b58ef39b61760/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-analytics:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/86eb23b6c7ab2ad069dd352ba47768b9/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-dynamic-links:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/8fd0f18b7746598605584b2ae2adc11e/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/60728352c1c47cfb2ec43e68baaf009c/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/9cd1301a214c8fcf6f209085da3796df/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/90e6458d89ff9830f1d8ca2af35df9f3/AndroidManifest.xml:17:1-29:12
 MERGED from [org.webkit:android-jsc:r245459] /home/vipul/.gradle/caches/transforms-2/files-2.1/844f9efe6b0545f77338eb3acc66785b/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /home/vipul/myspace/r7/new/deeplinkdemo/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/vipul/.gradle/caches/transforms-2/files-2.1/6a29138dd187a4dad792b8f6a9d64df4/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.fresco:fresco:2.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/ba67368dcc85f6b175108a29aa211ffd/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/b32831806c098842aee1086e1e0fd809/AndroidManifest.xml:2:1-9:12
@@ -20,11 +26,7 @@ MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/vipul/.gradl
 MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/319cd7be6600e89071d4921ae04e95f9/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/5bfda1e30d643f22a9f3567bfd2e709d/AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/776847fdf855b98469a35af97b87854f/AndroidManifest.xml:17:1-55:12
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/60728352c1c47cfb2ec43e68baaf009c/AndroidManifest.xml:17:1-36:12
 MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/edbb01428ea4397ebdaabe068a3bbdd7/AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:17:1-47:12
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/9cd1301a214c8fcf6f209085da3796df/AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/90e6458d89ff9830f1d8ca2af35df9f3/AndroidManifest.xml:17:1-29:12
 MERGED from [com.google.firebase:firebase-common:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/0fde94cb8ab614aebdac839fe433862c/AndroidManifest.xml:2:1-19:12
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/88ec37142b382b6b701c7b041ac53f85/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/cf7d4b502106ba5214ffaebcd554a69e/AndroidManifest.xml:17:1-25:12
@@ -87,12 +89,12 @@ uses-permission#android.permission.INTERNET
 ADDED from /home/vipul/myspace/r7/new/deeplinkdemo/android/app/src/main/AndroidManifest.xml:4:5-67
 MERGED from [:react-native-firebase] /home/vipul/myspace/r7/new/deeplinkdemo/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
 MERGED from [:react-native-firebase] /home/vipul/myspace/r7/new/deeplinkdemo/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
-MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/776847fdf855b98469a35af97b87854f/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/776847fdf855b98469a35af97b87854f/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/60728352c1c47cfb2ec43e68baaf009c/AndroidManifest.xml:22:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/60728352c1c47cfb2ec43e68baaf009c/AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/776847fdf855b98469a35af97b87854f/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/776847fdf855b98469a35af97b87854f/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/76689966f0137a3c6fe131f814af8d8e/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/76689966f0137a3c6fe131f814af8d8e/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/142dcac7bf4efec745fe90409cc8d5b9/AndroidManifest.xml:23:5-67
@@ -107,24 +109,26 @@ MERGED from [:react-native-firebase] /home/vipul/myspace/r7/new/deeplinkdemo/nod
 MERGED from [:react-native-firebase] /home/vipul/myspace/r7/new/deeplinkdemo/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
 MERGED from [com.facebook.react:react-native:0.61.5] /home/vipul/.gradle/caches/transforms-2/files-2.1/ea3e4bec2e12aabd6b7b44e3e19f268d/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.61.5] /home/vipul/.gradle/caches/transforms-2/files-2.1/ea3e4bec2e12aabd6b7b44e3e19f268d/AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.9] /home/vipul/.gradle/caches/transforms-2/files-2.1/2615342169021268556b58ef39b61760/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.9] /home/vipul/.gradle/caches/transforms-2/files-2.1/2615342169021268556b58ef39b61760/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-analytics:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/86eb23b6c7ab2ad069dd352ba47768b9/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-analytics:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/86eb23b6c7ab2ad069dd352ba47768b9/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-dynamic-links:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/8fd0f18b7746598605584b2ae2adc11e/AndroidManifest.xml:7:5-13:19
 MERGED from [com.google.firebase:firebase-dynamic-links:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/8fd0f18b7746598605584b2ae2adc11e/AndroidManifest.xml:7:5-13:19
-MERGED from [com.facebook.soloader:soloader:0.6.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/5bfda1e30d643f22a9f3567bfd2e709d/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.soloader:soloader:0.6.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/5bfda1e30d643f22a9f3567bfd2e709d/AndroidManifest.xml:11:5-20
-MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/776847fdf855b98469a35af97b87854f/AndroidManifest.xml:28:5-53:19
-MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/776847fdf855b98469a35af97b87854f/AndroidManifest.xml:28:5-53:19
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/60728352c1c47cfb2ec43e68baaf009c/AndroidManifest.xml:26:5-34:19
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/60728352c1c47cfb2ec43e68baaf009c/AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/edbb01428ea4397ebdaabe068a3bbdd7/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/edbb01428ea4397ebdaabe068a3bbdd7/AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:28:5-45:19
 MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:28:5-45:19
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/9cd1301a214c8fcf6f209085da3796df/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/9cd1301a214c8fcf6f209085da3796df/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/90e6458d89ff9830f1d8ca2af35df9f3/AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/90e6458d89ff9830f1d8ca2af35df9f3/AndroidManifest.xml:22:5-27:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/5bfda1e30d643f22a9f3567bfd2e709d/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/5bfda1e30d643f22a9f3567bfd2e709d/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/776847fdf855b98469a35af97b87854f/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/776847fdf855b98469a35af97b87854f/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/edbb01428ea4397ebdaabe068a3bbdd7/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/edbb01428ea4397ebdaabe068a3bbdd7/AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.firebase:firebase-common:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/0fde94cb8ab614aebdac839fe433862c/AndroidManifest.xml:11:5-17:19
 MERGED from [com.google.firebase:firebase-common:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/0fde94cb8ab614aebdac839fe433862c/AndroidManifest.xml:11:5-17:19
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/88ec37142b382b6b701c7b041ac53f85/AndroidManifest.xml:7:5-20
@@ -191,7 +195,7 @@ category#android.intent.category.LAUNCHER
 ADDED from /home/vipul/myspace/r7/new/deeplinkdemo/android/app/src/main/AndroidManifest.xml:20:13-73
 	android:name
 		ADDED from /home/vipul/myspace/r7/new/deeplinkdemo/android/app/src/main/AndroidManifest.xml:20:23-70
-intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:deeplink+data:host:deeplinkdemoproj.page.link+data:scheme:app+data:scheme:https
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:deeplinkdemo+data:host:deeplinkdemoproj.page.link+data:scheme:app+data:scheme:https
 ADDED from /home/vipul/myspace/r7/new/deeplinkdemo/android/app/src/main/AndroidManifest.xml:22:2-28:19
 	android:label
 		ADDED from /home/vipul/myspace/r7/new/deeplinkdemo/android/app/src/main/AndroidManifest.xml:22:17-49
@@ -208,9 +212,9 @@ ADDED from /home/vipul/myspace/r7/new/deeplinkdemo/android/app/src/main/AndroidM
 	android:name
 		ADDED from /home/vipul/myspace/r7/new/deeplinkdemo/android/app/src/main/AndroidManifest.xml:25:13-61
 data
-ADDED from /home/vipul/myspace/r7/new/deeplinkdemo/android/app/src/main/AndroidManifest.xml:26:6-59
+ADDED from /home/vipul/myspace/r7/new/deeplinkdemo/android/app/src/main/AndroidManifest.xml:26:6-63
 	android:host
-		ADDED from /home/vipul/myspace/r7/new/deeplinkdemo/android/app/src/main/AndroidManifest.xml:26:33-56
+		ADDED from /home/vipul/myspace/r7/new/deeplinkdemo/android/app/src/main/AndroidManifest.xml:26:33-60
 	android:scheme
 		ADDED from /home/vipul/myspace/r7/new/deeplinkdemo/android/app/src/main/AndroidManifest.xml:26:12-32
 activity#com.facebook.react.devsupport.DevSettingsActivity
@@ -225,12 +229,24 @@ MERGED from [:react-native-firebase] /home/vipul/myspace/r7/new/deeplinkdemo/nod
 MERGED from [:react-native-firebase] /home/vipul/myspace/r7/new/deeplinkdemo/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.61.5] /home/vipul/.gradle/caches/transforms-2/files-2.1/ea3e4bec2e12aabd6b7b44e3e19f268d/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.61.5] /home/vipul/.gradle/caches/transforms-2/files-2.1/ea3e4bec2e12aabd6b7b44e3e19f268d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-core:16.0.9] /home/vipul/.gradle/caches/transforms-2/files-2.1/2615342169021268556b58ef39b61760/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] /home/vipul/.gradle/caches/transforms-2/files-2.1/2615342169021268556b58ef39b61760/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/86eb23b6c7ab2ad069dd352ba47768b9/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/86eb23b6c7ab2ad069dd352ba47768b9/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-dynamic-links:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/8fd0f18b7746598605584b2ae2adc11e/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-dynamic-links:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/8fd0f18b7746598605584b2ae2adc11e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/60728352c1c47cfb2ec43e68baaf009c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/60728352c1c47cfb2ec43e68baaf009c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/9cd1301a214c8fcf6f209085da3796df/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/9cd1301a214c8fcf6f209085da3796df/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/90e6458d89ff9830f1d8ca2af35df9f3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/90e6458d89ff9830f1d8ca2af35df9f3/AndroidManifest.xml:20:5-44
 MERGED from [org.webkit:android-jsc:r245459] /home/vipul/.gradle/caches/transforms-2/files-2.1/844f9efe6b0545f77338eb3acc66785b/AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r245459] /home/vipul/.gradle/caches/transforms-2/files-2.1/844f9efe6b0545f77338eb3acc66785b/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /home/vipul/myspace/r7/new/deeplinkdemo/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /home/vipul/myspace/r7/new/deeplinkdemo/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/vipul/.gradle/caches/transforms-2/files-2.1/6a29138dd187a4dad792b8f6a9d64df4/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/vipul/.gradle/caches/transforms-2/files-2.1/6a29138dd187a4dad792b8f6a9d64df4/AndroidManifest.xml:20:5-44
 MERGED from [com.facebook.fresco:fresco:2.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/ba67368dcc85f6b175108a29aa211ffd/AndroidManifest.xml:5:5-7:41
@@ -251,16 +267,8 @@ MERGED from [com.facebook.soloader:soloader:0.6.0] /home/vipul/.gradle/caches/tr
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/5bfda1e30d643f22a9f3567bfd2e709d/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/776847fdf855b98469a35af97b87854f/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/776847fdf855b98469a35af97b87854f/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/60728352c1c47cfb2ec43e68baaf009c/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/60728352c1c47cfb2ec43e68baaf009c/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/edbb01428ea4397ebdaabe068a3bbdd7/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/edbb01428ea4397ebdaabe068a3bbdd7/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/9cd1301a214c8fcf6f209085da3796df/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/9cd1301a214c8fcf6f209085da3796df/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/90e6458d89ff9830f1d8ca2af35df9f3/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/90e6458d89ff9830f1d8ca2af35df9f3/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-common:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/0fde94cb8ab614aebdac839fe433862c/AndroidManifest.xml:6:5-8:41
 MERGED from [com.google.firebase:firebase-common:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/0fde94cb8ab614aebdac839fe433862c/AndroidManifest.xml:6:5-8:41
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/88ec37142b382b6b701c7b041ac53f85/AndroidManifest.xml:5:5-44
@@ -351,12 +359,12 @@ ADDED from /home/vipul/myspace/r7/new/deeplinkdemo/android/app/src/debug/Android
 		ADDED from /home/vipul/myspace/r7/new/deeplinkdemo/android/app/src/debug/AndroidManifest.xml:5:22-75
 uses-permission#android.permission.WAKE_LOCK
 ADDED from [:react-native-firebase] /home/vipul/myspace/r7/new/deeplinkdemo/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
-MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/776847fdf855b98469a35af97b87854f/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/776847fdf855b98469a35af97b87854f/AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/60728352c1c47cfb2ec43e68baaf009c/AndroidManifest.xml:24:5-68
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/60728352c1c47cfb2ec43e68baaf009c/AndroidManifest.xml:24:5-68
 MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:24:5-68
 MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/776847fdf855b98469a35af97b87854f/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/776847fdf855b98469a35af97b87854f/AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/76689966f0137a3c6fe131f814af8d8e/AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/76689966f0137a3c6fe131f814af8d8e/AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/142dcac7bf4efec745fe90409cc8d5b9/AndroidManifest.xml:25:5-68
@@ -365,12 +373,12 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /h
 		ADDED from [:react-native-firebase] /home/vipul/myspace/r7/new/deeplinkdemo/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [:react-native-firebase] /home/vipul/myspace/r7/new/deeplinkdemo/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
-MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/776847fdf855b98469a35af97b87854f/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/776847fdf855b98469a35af97b87854f/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/60728352c1c47cfb2ec43e68baaf009c/AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/60728352c1c47cfb2ec43e68baaf009c/AndroidManifest.xml:23:5-79
 MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:22:5-79
 MERGED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/776847fdf855b98469a35af97b87854f/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/776847fdf855b98469a35af97b87854f/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/76689966f0137a3c6fe131f814af8d8e/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/76689966f0137a3c6fe131f814af8d8e/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/142dcac7bf4efec745fe90409cc8d5b9/AndroidManifest.xml:24:5-79
@@ -401,6 +409,44 @@ ADDED from [com.google.firebase:firebase-dynamic-links:19.0.0] /home/vipul/.grad
 		ADDED from [com.google.firebase:firebase-dynamic-links:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/8fd0f18b7746598605584b2ae2adc11e/AndroidManifest.xml:11:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-dynamic-links:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/8fd0f18b7746598605584b2ae2adc11e/AndroidManifest.xml:10:17-133
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/60728352c1c47cfb2ec43e68baaf009c/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/60728352c1c47cfb2ec43e68baaf009c/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/60728352c1c47cfb2ec43e68baaf009c/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/90e6458d89ff9830f1d8ca2af35df9f3/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/90e6458d89ff9830f1d8ca2af35df9f3/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/90e6458d89ff9830f1d8ca2af35df9f3/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/90e6458d89ff9830f1d8ca2af35df9f3/AndroidManifest.xml:24:13-79
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
 ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/776847fdf855b98469a35af97b87854f/AndroidManifest.xml:26:5-110
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/76689966f0137a3c6fe131f814af8d8e/AndroidManifest.xml:26:5-110
@@ -451,44 +497,6 @@ ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/vipul
 		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/776847fdf855b98469a35af97b87854f/AndroidManifest.xml:52:13-69
 	android:name
 		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/776847fdf855b98469a35af97b87854f/AndroidManifest.xml:49:13-87
-meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
-ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/60728352c1c47cfb2ec43e68baaf009c/AndroidManifest.xml:30:13-32:85
-	android:value
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/60728352c1c47cfb2ec43e68baaf009c/AndroidManifest.xml:32:17-82
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/60728352c1c47cfb2ec43e68baaf009c/AndroidManifest.xml:31:17-139
-uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:26:5-82
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:26:22-79
-meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
-ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:32:13-34:85
-	android:value
-		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:34:17-82
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:33:17-96
-receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:37:9-44:20
-	android:exported
-		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:39:13-36
-	android:permission
-		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:40:13-73
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:38:13-78
-intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:41:13-43:29
-action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:42:17-81
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/677c16c1c4a2df01b23b2958deecf317/AndroidManifest.xml:42:25-78
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/90e6458d89ff9830f1d8ca2af35df9f3/AndroidManifest.xml:23:9-26:75
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/90e6458d89ff9830f1d8ca2af35df9f3/AndroidManifest.xml:25:13-37
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/90e6458d89ff9830f1d8ca2af35df9f3/AndroidManifest.xml:26:13-72
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/90e6458d89ff9830f1d8ca2af35df9f3/AndroidManifest.xml:24:13-79
 provider#com.google.firebase.provider.FirebaseInitProvider
 ADDED from [com.google.firebase:firebase-common:19.0.0] /home/vipul/.gradle/caches/transforms-2/files-2.1/0fde94cb8ab614aebdac839fe433862c/AndroidManifest.xml:12:9-16:39
 	android:authorities

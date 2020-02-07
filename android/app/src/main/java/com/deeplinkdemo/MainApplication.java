@@ -23,14 +23,27 @@ public class MainApplication extends Application implements ReactApplication {
           return BuildConfig.DEBUG;
         }
 
-        @Override
+        // @Override
+        // protected List<ReactPackage> getPackages() {
+        //   @SuppressWarnings("UnnecessaryLocalVariable")
+        //   List<ReactPackage> packages = new PackageList(this).getPackages();
+        //   // Packages that cannot be autolinked yet can be added manually here, for example:
+        //   // packages.add(new MyReactNativePackage());
+        //   return packages;
+        // }
         protected List<ReactPackage> getPackages() {
           @SuppressWarnings("UnnecessaryLocalVariable")
           List<ReactPackage> packages = new PackageList(this).getPackages();
           // Packages that cannot be autolinked yet can be added manually here, for example:
           // packages.add(new MyReactNativePackage());
-          return packages;
-        }
+          // packages.add(new LinearGradientPackage());
+          // packages.add(new FBSDKPackage());
+          // packages.add(new RNFirebaseMessagingPackage());
+          packages.add(new RNFirebaseLinksPackage());
+          return packages; 
+        } 
+
+        
 
 //      @Override
 //      protected List<ReactPackage> getPackages() {

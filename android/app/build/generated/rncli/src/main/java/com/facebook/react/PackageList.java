@@ -16,6 +16,8 @@ import com.deeplinkdemo.R;
 
 // react-native-firebase
 import io.invertase.firebase.RNFirebasePackage;
+// react-native-linear-gradient
+import com.BV.LinearGradient.LinearGradientPackage;
 
 public class PackageList {
   private Application application;
@@ -61,7 +63,8 @@ public class PackageList {
   public ArrayList<ReactPackage> getPackages() {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(mConfig),
-      new RNFirebasePackage()
+      new RNFirebasePackage(),
+      new LinearGradientPackage()
     ));
   }
 }
